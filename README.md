@@ -1,1 +1,1 @@
-# Dev-Detective
+DevDetective is a web application that allows users to track and explore GitHub profiles with ease. By simply entering a GitHub username, users can view key information such as follower and following counts, repository totals, location, bio, and any linked personal websites. The platform helps developers and recruiters get a quick overview of GitHub activity, providing valuable insights into the contributions and reach of a GitHub user.
